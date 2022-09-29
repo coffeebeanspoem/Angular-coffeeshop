@@ -2,9 +2,10 @@
 
 ### Is minimal shop for sell Coffee Beans
 ### We use Angular
-We also got other similar projects using other frameworks as Vue2, Vue3, React, Preact, Angular
+We also got other similar projects using other frameworks as [Vue2](https://github.com/coffeebeanspoem/vue2-coffeeshop),[Vue3](https://github.com/coffeebeanspoem/vue3-coffeeshop), [React](https://github.com/coffeebeanspoem/React-coffeeshop), [Preact](https://github.com/coffeebeanspoem/Preact-coffeeshop), [Angular](https://github.com/coffeebeanspoem/Angular-coffeeshop)
 
 ### Rules (no follow rules no chance to merge commit)
+See CONtributing
 1. Read `issues`
 2. Find what fit your skills
 3. Ask to start
