@@ -16,3 +16,10 @@ See Contributing
 8. Before send `Pull` for merge - write 2 next `issues` what you think must be
 9. Send pull request
 10. You got one successful `Pull` request
+
+### Resources
+- All resources about naming and structure located in `/DocsAndResources`
+- Read README.md
+- Read `CONTRIBUTING.md`
+- Use `ISSUE.md` as template as template for `Issue`
+- Use `PULL_REQUEST.md` as template for `Pull`
