@@ -23,3 +23,4 @@ See Contributing
 - Read `CONTRIBUTING.md`
 - Use `ISSUE.md` as template as template for `Issue`
 - Use `PULL_REQUEST.md` as template for `Pull`
+- Use free [Angular Crash Course](https://youtu.be/3dHNOWTI7H8)
