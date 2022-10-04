@@ -10,6 +10,7 @@ In Short
  - Main points how it should behave
 
 ### Template (Please use COPY-PASTE)
+```Markdown
 - [X] Added
 - [ ] Removed
 - [ ] Modified
@@ -17,7 +18,7 @@ In Short
     - | 'ComponentPath as /src/ComponentFolder/Component' |
 
 1. Description
-
+```
 
 ### Test look
 ----
@@ -26,7 +27,7 @@ In Short
 - [ ] Removed
 - [x] Modified
 - | Header |
-    - | '/src/main/Header.js' |
+    - "/src/main/Header.js" 
 
 
 1. Add new component what positioned on top of page, should include future components as Menu and Search
